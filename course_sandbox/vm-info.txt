@@ -1,0 +1,19 @@
+hostname:       controller
+network name:   private_network
+ip:             192.168.60.4
+
+hostname:       lb1
+network name:   private_network
+ip:             192.168.60.5
+
+hostname:       web1
+network name:   private_network
+ip:             192.168.60.6
+
+hostname:       web2
+network name:   private_network
+ip:             192.168.60.7
+
+hostname:       db1
+network name:   private_network
+ip:             192.168.60.8
